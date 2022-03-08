@@ -1,0 +1,2 @@
+# Online_Retail--Market_Basket_Analysis
+Market basket analysis is used to analyse and extract insights from transactions. Association rule learning is a machine learning approach to uncovering the associations between the products individuals purchase that are strong enough to be leveraged for business decisions. The Apriori algorithm and association rule learning models using mlxtend and know how these models are applied in business.
